@@ -1,6 +1,6 @@
 # dotnet-api-example
 
-A ideia é criarmos uma api, para depois consumirmos com uma aplicação de backend e com outra de backend.
+A ideia é criarmos uma api, para depois consumirmos com uma aplicação de backend e com outra de frontend.
 
 Tarefas:
 
