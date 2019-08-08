@@ -9,3 +9,11 @@ Tarefas:
 2 - Criar a estrutura da nossa api no Visual Studio.
 
 3 - Criar os objectos de negócio.
+
+
+**Documentação útil**
+- https://docs.microsoft.com/en-us/dotnet/welcome
+- https://docs.microsoft.com/en-us/dotnet/csharp
+- https://docs.microsoft.com/en-us/dotnet/standard/components
+- https://code.visualstudio.com
+- https://code.visualstudio.com/Docs/languages/csharp
