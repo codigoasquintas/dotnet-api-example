@@ -4,11 +4,13 @@ A ideia é criarmos uma api, para depois consumirmos com uma aplicação de back
 
 Tarefas:
 
-1 - Criar ideia de negócio básica.
+1 - Instalar Software necessário.
 
-2 - Criar a estrutura da nossa api no Visual Studio.
+2 - Criar ideia de negócio básica.
 
-3 - Criar os objectos de negócio.
+3 - Criar a estrutura da nossa api no Visual Studio.
+
+4 - Criar os objectos de negócio.
 
 
 **Documentação útil**
